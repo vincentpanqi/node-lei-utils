@@ -1,5 +1,7 @@
 # node-lei-utils
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/leizongmin/node-lei-utils.svg)](https://greenkeeper.io/)
+
 支持 TypeScript
 
 安装
